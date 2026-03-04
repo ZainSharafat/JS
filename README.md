@@ -1,2 +1,2 @@
-# BasicJs
-Basic Js
+# Js
+JS
